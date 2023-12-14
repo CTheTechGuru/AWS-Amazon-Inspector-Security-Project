@@ -7,7 +7,7 @@
 
 
 <!-- PROJECT Details-->
-# About The Project
+## About The Project
 
 We wil create a production environment for an EC2 instance which we will perform a network check for vulnerabilities. The tool we will use to perform the check is AMmazon Inspector, which is a vulnerability management tool in AWS.
 Amazon Inspector have quite a few benefits including the detection of software vulnerabilities, prioritize remediation reducing mean time to remediate (MTTR), and the ability to conduct agent based and agentless scanning. 
@@ -16,15 +16,15 @@ Amazon Inspector have quite a few benefits including the detection of software v
 #### Overview:
 * We will create a target instance.
 * Add a tag consisting of key value pairs to identify out instance.
-* Install agent on target instance
-* Set Rules and sceduling for target assesment
+* Install agent on target instance.
+* Set Rules and sceduling for target assesment.
 * Create template.
 * Run Vulnerability Scanner.
 * Review Findings. 
 
 
 
- # Prerequisites
+ ### Prerequisites
 
 
 * Basic understanding of AWS core services.
@@ -33,7 +33,11 @@ Amazon Inspector have quite a few benefits including the detection of software v
 * Create AWS user account with administrator access.(enable MFA on lab account)
 * 
 
-##  
+### Fun Facts -
+
+Customers who use Amazon Inspector for their organization. 
+![](https://github.com/CTheTechGuru/AWS-Amazon-Inspector-Security-Project/blob/main/images/Amazon%20Inspector%20Clients.PNG)
+
 
 ### 1. 
 
