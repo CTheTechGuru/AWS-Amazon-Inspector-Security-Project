@@ -47,6 +47,7 @@ Amazon Inspector have quite a few benefits including the detection of software v
 * t2.micro (free tier eligible)
 * Choose key pair or create as needed.
 * Edit Network settings, Choose the default vpc, subnet 1a, and Enable Auto assign IP.
+
  
 ![](https://github.com/CTheTechGuru/AWS-Amazon-Inspector-Security-Project/blob/main/images/EC2%20Instance.png?raw=true)
 
