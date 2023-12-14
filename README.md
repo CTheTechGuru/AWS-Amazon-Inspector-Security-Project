@@ -92,7 +92,7 @@ Amazon Inspector have quite a few benefits including the detection of software v
 ### 3. Define Assesment Template
 
 * We will Give our template a name.
-* For Rule Packages we will choose.
+* For Rule Packages we will choose Network Reachability and Common Vulnerabilities and Exposures-1.1
 * Set the duration for 15 minutes. 
 * Uncheck the box for recurring Assessmnet Schedule. 
 
