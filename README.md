@@ -94,17 +94,19 @@ Amazon Inspector have quite a few benefits including the detection of software v
 * We will Give our template a name.
 * For Rule Packages we will choose Network Reachability and Common Vulnerabilities and Exposures-1.1
 * Set the duration for 15 minutes. 
-* Uncheck the box for recurring Assessmnet Schedule.
+* Uncheck the box for recurring Assessment Schedule.
 
 ![](https://github.com/CTheTechGuru/AWS-Amazon-Inspector-Security-Project/blob/main/images/Prod%20Assessment.png?raw=true)
 
 
 
 
-## 4.
+## 4. Amazon Inspector Findings
 
-*
-*
+* Under the Findings section, you will discover any vulnerabilities that surfaced during the scan.
+
+![](https://github.com/CTheTechGuru/AWS-Amazon-Inspector-Security-Project/blob/main/images/Amazon%20Inspector%20Findings.png?raw=true)
+
 *
 *
 *
