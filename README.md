@@ -1,6 +1,6 @@
 # <h1 align="center">AWS Security Lab | Amazon Inspector Project</h3>
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.helpnetsecurity.com%2F2023%2F05%2F04%2Famazon-inspector-vulnerability-intelligence-database%2F&psig=AOvVaw2OSW0_BiBnQuXMXC1aW-m6&ust=1702613279683000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDW0PCGjoMDFQAAAAAdAAAAABA0)
+![](https://github.com/CTheTechGuru/AWS-Amazon-Inspector-Security-Project/blob/main/images/amazon_inspector-1600.jpg?raw=true)
 
 
 
