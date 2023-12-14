@@ -71,10 +71,10 @@ Amazon Inspector have quite a few benefits including the detection of software v
 
 
 
-### 2. 
+### 2. Define Assesment Target
 
-*
-*
+* Now we will go to Amazon Inspector.    
+* 
 *
 *
 *
