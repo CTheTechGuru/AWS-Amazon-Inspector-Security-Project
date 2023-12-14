@@ -47,11 +47,11 @@ Amazon Inspector have quite a few benefits including the detection of software v
 * t2.micro (free tier eligible)
 * Choose key pair or create as needed.
 * Edit Network settings, Choose the default vpc, subnet 1a, and Enable Auto assign IP.
-  ![](https://github.com/CTheTechGuru/AWS-Amazon-Inspector-Security-Project/blob/main/images/EC2%20Instance.png?raw=true)
+![](https://github.com/CTheTechGuru/AWS-Amazon-Inspector-Security-Project/blob/main/images/EC2%20Instance.png?raw=true)
 * Launch Instance
-  ![](https://github.com/CTheTechGuru/AWS-Amazon-Inspector-Security-Project/blob/main/images/2.png?raw=true)
+![](https://github.com/CTheTechGuru/AWS-Amazon-Inspector-Security-Project/blob/main/images/2.png?raw=true)
 * After Instance is launched go to main EC2 Dashboard and highlight the instance checkbox, in the lower panel choose manage tags.
-* ![ Change Key Value to the corresponding](https://github.com/CTheTechGuru/AWS-Amazon-Inspector-Security-Project/blob/main/images/-.png?raw=true)
+![ Change Key Value to the corresponding](https://github.com/CTheTechGuru/AWS-Amazon-Inspector-Security-Project/blob/main/images/-.png?raw=true)
 
 
 
