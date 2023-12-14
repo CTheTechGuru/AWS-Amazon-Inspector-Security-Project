@@ -37,7 +37,7 @@ Amazon Inspector have quite a few benefits including the detection of software v
 
 ![](https://github.com/CTheTechGuru/AWS-Amazon-Inspector-Security-Project/blob/main/images/Amazon%20Inspector%20Clients.PNG)
 
-##Steps
+## Steps
 
 ### 1. Create EC2 Instance
 
