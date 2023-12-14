@@ -59,8 +59,10 @@ Amazon Inspector have quite a few benefits including the detection of software v
 
 ![ Change Key Value to the corresponding](https://github.com/CTheTechGuru/AWS-Amazon-Inspector-Security-Project/blob/main/images/-.png?raw=true)
 
-
-
+* While in the EC2 Dashboard, select the instance and below choose security
+* Change Security Group inbound rule and enable port 21 and 23 which is ftp and telnet.
+* These protocols aren't very secure and would allow our vulnerability scanner to pick up vulnerabilities.
+![](https://github.com/CTheTechGuru/AWS-Amazon-Inspector-Security-Project/blob/main/images/FTP%20Telnet.png?raw=true)
 
 
 
