@@ -47,7 +47,9 @@ Amazon Inspector have quite a few benefits including the detection of software v
 * t2.micro (free tier eligible)
 * Choose key pair or create as needed.
 * Edit Network settings, Choose the default vpc, subnet 1a, and Enable Auto assign IP.
-*
+* Launch Instance
+* After Instance is launched go to main EC2 Dashboard and highlight the instance checkbox, in the lower panel choose manage tags.
+* ![](
 
 
 
