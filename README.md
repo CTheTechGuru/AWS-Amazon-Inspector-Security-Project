@@ -7,7 +7,7 @@
 
 
 <!-- PROJECT Details-->
-#### About The Project:
+### About The Project:
 
 We wil create a production environment for an EC2 instance which we will perform a network check for vulnerabilities. The tool we will use to perform the check is AMmazon Inspector, which is a vulnerability management tool in AWS.
 Amazon Inspector have quite a few benefits including the detection of software vulnerabilities, prioritize remediation reducing mean time to remediate (MTTR), and the ability to conduct agent based and agentless scanning. 
@@ -33,7 +33,7 @@ Amazon Inspector have quite a few benefits including the detection of software v
 * Create AWS user account with administrator access.(enable MFA on lab account)
 * 
 
-### Fun Fact - 
+#### Fun Fact: 
 * AWS has customers who use Amazon Inspector within their organization and its benefits vary from company to company. 
 
 ![](https://github.com/CTheTechGuru/AWS-Amazon-Inspector-Security-Project/blob/main/images/Amazon%20Inspector%20Clients.PNG)
