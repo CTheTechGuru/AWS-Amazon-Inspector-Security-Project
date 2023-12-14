@@ -1,4 +1,4 @@
-yes# <h1 align="center">AWS Security Lab | Amazon Inspector Project</h3>
+<h1 align="center">AWS Security Lab | Amazon Inspector Project</h3>
 
 ![](https://github.com/CTheTechGuru/AWS-Amazon-Inspector-Security-Project/blob/main/images/amazon_inspector-1600.jpg?raw=true)
 
@@ -73,23 +73,29 @@ Amazon Inspector have quite a few benefits including the detection of software v
 
 ### 2. Define Assesment Target
 
-* Now we will go to Amazon Inspector.    
+* Now we will go to Amazon Inspector.
+  
+![](https://github.com/CTheTechGuru/AWS-Amazon-Inspector-Security-Project/blob/main/images/Amazon%20Inspector.png)
+
+* Choose the Get Started Tab. 
+* Next choose Advanced Setup.
+* Now we will define our assessment target.
+* Give the assesment target a name and uncheck All Instances.
+* Choose the Key and Value dropdowns to the corresponding ones made earlier during the EC2 creation.
 * 
-*
-*
-*
+![](https://github.com/CTheTechGuru/AWS-Amazon-Inspector-Security-Project/blob/main/images/Assessment%20Target.png)
 
+* Checkbox for Install Agents.
+  
   
 
-  
+### 3. Define Assesment Template
 
-### 3.
+* We will Give our template a name.
+* For Rule Packages we will choose.
+* Set the duration for 15 minutes. 
+* Uncheck the box for recurring Assessmnet Schedule. 
 
-*
-*
-*
-*
-*
 
 
 
