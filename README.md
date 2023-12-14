@@ -33,7 +33,7 @@ Amazon Inspector have quite a few benefits including the detection of software v
 * Create AWS user account with administrator access.(enable MFA on lab account)
 * 
 
-### Fun Facts - AWS has customers who use Amazon Inspector within their organization and its benefits vary from company to company. 
+### Fun Fact - AWS has customers who use Amazon Inspector within their organization and its benefits vary from company to company. 
 
 ![](https://github.com/CTheTechGuru/AWS-Amazon-Inspector-Security-Project/blob/main/images/Amazon%20Inspector%20Clients.PNG)
 
