@@ -136,44 +136,7 @@ Amazon Inspector have quite a few benefits including the detection of software v
 *
 
 
-## 7. 
- 
-*
-*
-*
-*
 
-
-## 8. 
-
-*
-*
-*
-*
-*
-
-
-  
- 
-## 9. 
-
-*
-*
-*
-*
-*
-
-
-
-
- 
-## 10.
-
-*
-*
-*
-*
-*
 *
 
 
