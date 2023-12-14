@@ -1,4 +1,4 @@
-# <h1 align="center">AWS Security Lab | Amazon Inspector Project</h3>
+yes# <h1 align="center">AWS Security Lab | Amazon Inspector Project</h3>
 
 ![](https://github.com/CTheTechGuru/AWS-Amazon-Inspector-Security-Project/blob/main/images/amazon_inspector-1600.jpg?raw=true)
 
@@ -31,19 +31,22 @@ Amazon Inspector have quite a few benefits including the detection of software v
 * Base level knowledge of cybersecurity terms and tools. 
 * Access to AWS (Free Tier or Paid)
 * Create AWS user account with administrator access.(enable MFA on lab account)
-* 
-
+  
 #### Fun Fact: 
 * AWS has customers who use Amazon Inspector within their organization and its benefits vary from company to company. 
 
 ![](https://github.com/CTheTechGuru/AWS-Amazon-Inspector-Security-Project/blob/main/images/Amazon%20Inspector%20Clients.PNG)
 
+##Steps
 
-### 1. 
+### 1. Create EC2 Instance
 
-*
-*
-*
+* Go to EC2 Console and Launch Instance
+
+* We will chgoose Amazon Linux (Free tier eligible)
+* t2.micro (free tier eligible)
+* Choose key pair or create as needed.
+* Edit Network settings, Choose the default vpc, subnet 1a, and Enable Auto assign IP.
 *
 
 
