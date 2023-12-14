@@ -1,6 +1,6 @@
 # <h1 align="center">AWS Security Lab | Amazon Inspector Project</h3>
 
-![](https://github.com/CTheTechGuru/AWS-Networking-3-Tier-Architecture/blob/main/images/C%20Diagram%20-%20Page%201(1).png?raw=true)
+![]()
 
 
 
@@ -28,7 +28,7 @@ Amazon Inspector have quite a few benefits including the detection of software v
 
 
 * Basic understanding of AWS core services.
-* 
+* Base level knowledge of cybersecurity terms and tools. 
 * Access to AWS (Free Tier or Paid)
 * Create AWS user account with administrator access.(enable MFA on lab account)
 * 
