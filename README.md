@@ -10,7 +10,7 @@
 ### About The Project:
 
 We will create a production environment for an EC2 instance which we will perform a network check for vulnerabilities. The tool we will use to perform the check is Amazon Inspector, which is a vulnerability management tool in AWS.
-Amazon Inspector have quite a few benefits including the detection of software vulnerabilities, prioritize remediation reducing mean time to remediate (MTTR), and the ability to conduct agent based and agentless scanning. 
+Amazon Inspector have quite a few benefits including the detection of software vulnerabilities, prioritize remediation reducing mean time to remediate (MTTR), and the ability to conduct agent based and agent-less scanning. 
 
 
 #### Overview:
