@@ -101,51 +101,42 @@ Amazon Inspector have quite a few benefits including the detection of software v
 
 
 
-## 4. Amazon Inspector Findings
+## 4. Run Amazon Inspector
+
+* After Creating the Assessment Template you should return to the following screen below. Choose Run. 
+
+![](https://github.com/CTheTechGuru/AWS-Amazon-Inspector-Security-Project/blob/main/images/Amazon%20Inspector%20Findings.png?raw=true)
+
+* After you choose run the scanner will proceed to analyze the instance for vulnerabilities and network reachability. 
+* Select findings. 
+
+
+
+ 
+## 5. Amazon Inspector Findings
 
 * Under the Findings section, you will discover any vulnerabilities that surfaced during the scan.
 
 ![](https://github.com/CTheTechGuru/AWS-Amazon-Inspector-Security-Project/blob/main/images/Amazon%20Inspector%20Findings.png?raw=true)
 
-*
-*
-*
+
+* The results will range from High, Low, Medium, based off severity. 
+
+* Below is a display of port 21 and 23 analysis as both are /High on the severity list.
+
+![](https://github.com/CTheTechGuru/AWS-Amazon-Inspector-Security-Project/blob/main/images/Port%2021%20Analysis.png)
+
+![](https://github.com/CTheTechGuru/AWS-Amazon-Inspector-Security-Project/blob/main/images/Port23%20Analysis.png)
 
 
- 
-## 5.
-
-*
-*
-*
-*
-*
-*
-
-
-
-
-## 6.  
-
-*
-*
-*
-*
-*
-*
-*
-
-
-
-*
-
+* Note at the bottom of the findings you will see the severity, description as well as recommendation to remediate the sev.
 
 <h1 align="center">Summary</h3>
 
-
-
-
-
+There are endless use cases for Amazon Inspector. In traditional on premise environments the use of a third party vulnerability management tool is common. 
+Being that more companies are transitioning to the cloud services like Amazon Inspector allows us to remediate vulnerabilities with an integrated service 
+which is cost efficient and compliments a well architected framework ensuring a secure production environment. That wraps up this demonstration, 
+If you followed along be sure to terminate all instances and delete targets within Amazon Inspector to avoid costs. Until next time. Peace!
 
 
 <!-- CONTACT -->
