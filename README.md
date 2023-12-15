@@ -15,7 +15,7 @@ Amazon Inspector have quite a few benefits including the detection of software v
 
 #### Overview:
 * We will create a target instance.
-* Add a tag consisting of key value pairs to identify out instance.
+* Add a tag consisting of key | value tags to identify out instance.
 * Install agent on target instance.
 * Set Rules and scheduling for target assessment.
 * Create template.
