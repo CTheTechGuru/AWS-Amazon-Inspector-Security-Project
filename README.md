@@ -1,4 +1,4 @@
-<h1 align="center">AWS Security Lab | Amazon Inspector Project</h3>
+<h1 align="center">AWS Security | Amazon Inspector Project Lab</h3>
 
 ![](https://github.com/CTheTechGuru/AWS-Amazon-Inspector-Security-Project/blob/main/images/amazon_inspector-1600.jpg?raw=true)
 
