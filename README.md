@@ -17,7 +17,7 @@ Amazon Inspector have quite a few benefits including the detection of software v
 * We will create a target instance.
 * Add a tag consisting of key value pairs to identify out instance.
 * Install agent on target instance.
-* Set Rules and sceduling for target assesment.
+* Set Rules and scheduling for target assessment.
 * Create template.
 * Run Vulnerability Scanner.
 * Review Findings. 
@@ -30,7 +30,7 @@ Amazon Inspector have quite a few benefits including the detection of software v
 * Basic understanding of AWS core services.
 * Base level knowledge of cybersecurity terms and tools. 
 * Access to AWS (Free Tier or Paid)
-* Create AWS user account with administrator access.(enable MFA on lab account)
+* Create AWS user account with administrator access. (enable MFA on lab account)
   
 #### Fun Fact: 
 * AWS has customers who use Amazon Inspector within their organization and its benefits vary from company to company. 
@@ -43,7 +43,7 @@ Amazon Inspector have quite a few benefits including the detection of software v
 
 * Go to EC2 Console and Launch Instance
 
-* We will chgoose Amazon Linux (Free tier eligible)
+* We will choose Amazon Linux (Free tier eligible)
 * t2.micro (free tier eligible)
 * Choose key pair or create as needed.
 * Edit Network settings, Choose the default vpc, subnet 1a, and Enable Auto assign IP.
@@ -71,7 +71,7 @@ Amazon Inspector have quite a few benefits including the detection of software v
 
 
 
-### 2. Define Assesment Target
+### 2. Define Assessment Target
 
 * Now we will go to Amazon Inspector.
   
@@ -80,7 +80,7 @@ Amazon Inspector have quite a few benefits including the detection of software v
 * Choose the Get Started Tab. 
 * Next choose Advanced Setup.
 * Now we will define our assessment target.
-* Give the assesment target a name and uncheck All Instances.
+* Give the assessment target a name and uncheck All Instances.
 * Choose the Key and Value dropdowns to the corresponding ones made earlier during the EC2 creation.
 * 
 ![](https://github.com/CTheTechGuru/AWS-Amazon-Inspector-Security-Project/blob/main/images/Assessment%20Target.png)
@@ -89,7 +89,7 @@ Amazon Inspector have quite a few benefits including the detection of software v
   
   
 
-### 3. Define Assesment Template
+### 3. Define Assessment Template
 
 * We will Give our template a name.
 * For Rule Packages we will choose Network Reachability and Common Vulnerabilities and Exposures-1.1
